@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there I'm Ciel👋
 
-<!--
-**Ciel369-hub/Ciel369-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Creative Technologist transitioning into AI Engineering.
+With a background in Environment Art Design, I bridge the gap between aesthetic intuition and technical logic.
 
-Here are some ideas to get you started:
+Current Focus:
+* 🤖 Building AI Agents and optimizing Human-in-the-loop workflows.
+* 🧠 Specializing in Prompt Engineering (Few-shot, CoT) & Context Management.
+* ⚡ Automating creative processes using SOTA LLMs (Gemini, Grok, Cluade, GPT-4).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Background:
+* 🛠️ Software Engineer (QA & Maintenance): Experienced in system modification, feature implementation, and rigorous testing protocols.
+* 🎓 Bachelor in Environment Art Design.
+* 🌏 Based in Japan | Trilingual Professional (Chinese / English / Japanese).
+* 📸 Passionate about photography & generative art.
