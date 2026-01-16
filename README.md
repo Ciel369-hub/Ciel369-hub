@@ -1,7 +1,8 @@
 ## Hi there I'm Ciel👋
 
 I am a Creative Technologist transitioning into AI Engineering.
-With a background in Environment Art Design, I bridge the gap between aesthetic intuition and technical logic.
+With a background in Environment Art Design, 
+I bridge the gap between aesthetic intuition and technical logic.
 
 Current Focus:
 * 🤖 Building AI Agents and optimizing Human-in-the-loop workflows.
